@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color:Ethereal White;
+  margin: 0;
+  padding: 20px;
+}
+
+.main-box {
+  background: white;
+  width: 700px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  border: 2px solid #a8d8d8;
+}
+
+h2 {
+  color: darkcyan;
+  margin-bottom: 0;
+}
+
+.tagline {
+  color: gray;
+  font-style: italic;
+  margin-top: 2px;
+}
+
+.container {
+  display: flex;
+  margin-top: 20px;
+}
+
+.friends {
+  background-color: #c2efef;
+  padding: 10px;
+height: 50%;
+  width: 30%;
+  border-radius: 8px solid color:darkcyan;
+}
+
+.friends h3 {
+  margin-top: 0;
+}
+
+.friends ul {
+  list-style-type: color:black;
+  padding-left: 10px;
+}
+
+.friends li {
+  margin-bottom: 5px;
+}
+
+.posts {
+  width: 70%;
+  padding-left: 20px;
+}
+
+.entry {
+  background-color: #f3ffff;
+  border: 1px solid #bce6e6;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.entry h4 {
+  color: #007777;
+  margin-top: 0;
+}
+
+.entry p {
+  color: #333;
+  font-size: 14px;
+}
+
+.photo {
+  width: 120px;
+  margin-top: 10px;
+  border-radius: 6px;
+}
